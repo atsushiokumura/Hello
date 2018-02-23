@@ -1,5 +1,7 @@
 Hello Test
 
-[Setting]
-[Sequential Read]
-[Interrupt Read]
+git init
+git add Hello.txt
+git commit -m "Add Category"
+git push origin master
+
