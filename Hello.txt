@@ -9,3 +9,10 @@ merge (test -> master)
 git checkout master
 git merge test
 git push origin master
+
+git status
+git add [filename]
+git commit -m "message"
+git log -n 3
+git grep "word"
+
