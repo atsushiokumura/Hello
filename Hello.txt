@@ -1,7 +1,11 @@
 Hello Test
 
-git init
+
 git add Hello.txt
 git commit -m "Add Category"
-git push origin master
+git push -u origin master
 
+merge (test -> master)
+git checkout master
+git merge test
+git push origin master
